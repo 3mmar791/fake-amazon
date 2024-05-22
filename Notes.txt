@@ -1,0 +1,15 @@
+1- Rcconaisance :
+passive Rcconaisance --> by knowing his gmail , interests and his social profials facebook profile 
+
+2- weponaization : create a phishing email , and fake amazon page 
+
+3- Delivery : 
+send the phishing email to the victim and be intersted to open the link of amazon page
+
+4- Exploitation : hijack the session from the user , using the CSRF vulnerability.
+
+5- instlaton : how much time will be in the service.
+
+6- command and control : ESTABLISH CONNECTIONS TO ISSUE COMMANDS, EXFILTRATE DATA, OR LAUNCH FURTHER ATTACKS.
+
+7- achive objects : take control over the database.
